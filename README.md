@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/chaimaa-elqoubaa-75630a2b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Morocco-Country-C1272D?style=for-the-badge" alt="Morocco"/>
+  <img src="https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge" alt="Morocco"/>
 </p>
 
 ---
